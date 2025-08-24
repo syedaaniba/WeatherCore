@@ -17,7 +17,9 @@ A clean and responsive weather application built with React that displays real-t
 
 ## 📸 Screenshot
 
-![Screenshot of the WeatherCore application](./assets/screenshot.png)
+## 📸 Screenshot
+
+![Screenshot of the WeatherCore application](./src/assets/screenshot.PNG)
 
 
 ## 💻 Tech Stack
