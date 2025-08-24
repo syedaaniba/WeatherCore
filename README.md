@@ -6,7 +6,6 @@ A clean and responsive weather application built with React that displays real-t
 
 [View Live Demo](https://serene-pastelito-0b2b45.netlify.app/)
 
-**Note:** The application's live demo may take a few hours to display weather data as the API key activates.
 
 ## ✨ Features
 
